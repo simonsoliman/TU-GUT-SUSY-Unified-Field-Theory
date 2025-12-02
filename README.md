@@ -1,4 +1,4 @@
-# 🚀 TU-GUT-SUSY: Unified Field Theory
+# TU-GUT-SUSY: Unified Field Theory
 
 ## Simon Soliman - 29 November 2024
 
